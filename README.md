@@ -1,4 +1,4 @@
-# the_basics
+# BTS India Fancafe - In progress
 
 A new Flutter project.
 
